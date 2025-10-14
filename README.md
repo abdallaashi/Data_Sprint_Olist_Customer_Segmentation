@@ -31,9 +31,9 @@ The analysis is built using multiple Olist datasets and visualized in Power BI, 
 
 ## KPI Goals
 
-1- **Recency:** Increase the share of recent customers to 10%
-2- **Frequency:** Grow the percentage of frequent buyers to 5%
-3- **Monetary:** Increase the share of big spenders to 15%
+- **Recency:** Increase the share of recent customers to 10%
+- **Frequency:** Grow the percentage of frequent buyers to 5% 
+- **Monetary:** Increase the share of big spenders to 15% 
 
 
 ## Recommendations
