@@ -46,9 +46,9 @@ The analysis is built using multiple Olist datasets and visualized in Power BI, 
 
 ## Project Team
 
-Abdulla Osman
-Bushra Swar
-Hassan Alhashemi
+Abdulla Osman,
+Bushra Swar,
+Hassan Alhashemi,
 Najwa Ebrahim
 
 Olist Customer Segmentation Project – 2025
