@@ -13,8 +13,6 @@ The analysis is built using multiple Olist datasets and visualized in Power BI, 
 - Analyze payment behavior and customer satisfaction.
 - Develop strategies to increase loyalty and reduce churn.
 
-## Datasets 
-
 
 ## Tools & Techniques
 
